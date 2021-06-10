@@ -35,3 +35,11 @@ main{
     min-height: 70vh;
     padding-top: 70px;
 }
+main{
+    background-color: darkturquoise;
+    background-image: url(plane-clip-art-37.png);
+    text-align: center;
+    min-height: 70vh;
+    padding-top: 70px;
+    color: #fff;
+}
