@@ -1,0 +1,37 @@
+body{
+    font-family: cursive;
+}
+
+
+
+
+
+header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+a{
+    margin-left: 10px;
+    margin-right: 20px ;
+    color: blue;
+    text-decoration: none;
+}
+button{
+    background-color: darkblue;
+     color: darkcyan;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border:none;
+
+}
+button:hover{
+    background-color: darkmagenta;
+}
+main{
+    background-color: darkturquoise;
+    text-align: center;
+    min-height: 70vh;
+    padding-top: 70px;
+}
